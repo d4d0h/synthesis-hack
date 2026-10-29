@@ -17,7 +17,7 @@
     "@openserv-labs/sdk": "^2.4.1",
     "dotenv": "^16.4.5",
     "viem": "^2.21.54",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
